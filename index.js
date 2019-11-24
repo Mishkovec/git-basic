@@ -3,5 +3,5 @@ function abc (a,b) {
 }
 
 function bbb (b) {
-    return b*b;
+    return b*b*b;
 }
