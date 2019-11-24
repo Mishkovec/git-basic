@@ -2,6 +2,6 @@ function abc (a,b) {
     return a+b;
 }
 
-function aaa (a) {
-    return a*a;
+function aaab (a) {
+    return a*a*a;
 }
